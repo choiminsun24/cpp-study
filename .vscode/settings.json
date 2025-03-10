@@ -9,6 +9,7 @@
         "sstream": "cpp",
         "string": "cpp",
         "xtree": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
