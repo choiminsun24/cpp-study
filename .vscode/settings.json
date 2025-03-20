@@ -13,6 +13,13 @@
         "stack": "cpp",
         "unordered_map": "cpp",
         "cstdlib": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "xhash": "cpp",
+        "chrono": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp"
     }
 }
