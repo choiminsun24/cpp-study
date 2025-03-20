@@ -11,6 +11,8 @@
         "xtree": "cpp",
         "queue": "cpp",
         "stack": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "cstdlib": "cpp",
+        "xutility": "cpp"
     }
 }
